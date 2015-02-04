@@ -3,7 +3,8 @@
 <rss version="2.0" xmlns:source="http://source.smallpict.com/2014/07/12/theSourceNamespace.html">
 	<channel>
 		<title>NYT's RSS Feed</title>
-		<link>http://twitter.com/NYT/</link>
+		<link>http://twitter.com/Booking.com
+om /</link>
 		<description>A feed generated from NYT's tweets by https://github.com/scripting/tweetsToRss</description>
 		<pubDate>Fri, 16 Jan 2015 13:17:00 GMT</pubDate>
 		<lastBuildDate>Fri, 16 Jan 2015 13:21:18 GMT</lastBuildDate>
